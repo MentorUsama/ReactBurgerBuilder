@@ -1,5 +1,5 @@
 import {render, screen, } from '@testing-library/react';
-import BuildControl from '../components/BuildControls/BuildControl/BuildControl'
+import BuildControl from '../../../../components/BuildControls/BuildControl/BuildControl'
 import userEvent from '@testing-library/user-event';
 
 

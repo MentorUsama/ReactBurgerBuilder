@@ -1,17 +1,3 @@
 {
-  "files.exclude": {
-    "yarn.lock": true,
-    "README.md": true,
-    ".gitignore": true,
-    "": true,
-    "src\\setupTests.js": true,
-    "src\\reportWebVitals.js": true,
-    "src\\logo.svg": true,
-    "public\\logo192.png": true,
-    "public\\logo512.png": true,
-    "public\\robots.txt": true,
-    "public\\manifest.json": true,
-    "node_modules": true,
-    ".vscode": true
-  }
+  "files.exclude": {}
 }
